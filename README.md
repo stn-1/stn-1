@@ -3,4 +3,5 @@
 
 <p>⚒ Skills <small>"I am still learning"</small></p>
 
-🐱‍💻 Security Researcher / 🤓 ML/AI 
+🐱‍💻 Security Researcher / 🤓 ML+AI / ⚙️System Programming / ⚙️Low-level Development
+
