@@ -1,6 +1,15 @@
-# Hello World👋
-<p><small>🐱‍💻Love Math & Algorithms/🥰Want To Know How Everything Work! </small></p><br>
+## Hello World👋
+<br>
+🐱‍💻Love Math & Algorithms/🥰Want To Know How Everything Work! </small>
+<br>
+<br>
 
-## ⚒ Skills 😴 
-                                                     LEARN, LEARN MORE, LEARN FOREVER !!
+```
+   ____            _ _                                                      
+  / ___|___   __ _(_) |_ ___      ___ _ __ __ _  ___    ___ _   _ _ __ ___  
+ | |   / _ \ / _` | | __/ _ \    / _ \ '__/ _` |/ _ \  / __| | | | '_ ` _ \ 
+ | |__| (_) | (_| | | || (_) |  |  __/ | | (_| | (_) | \__ \ |_| | | | | | |
+  \____\___/ \__, |_|\__\___( )  \___|_|  \__, |\___/  |___/\__,_|_| |_| |_|
+             |___/          |/            |___/                             
+```
 
