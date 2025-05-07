@@ -1,5 +1,5 @@
 # Hello World👋
-<p><small> 🏫HUCEr/🐱‍💻Love Math & Algorithms/🥰Want To Know How Everything Work! </small></p><br>
+<p><small>🐱‍💻Love Math & Algorithms/🥰Want To Know How Everything Work! </small></p><br>
 
 ## ⚒ Trying to become 😴 
 
